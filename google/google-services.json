@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581575261047",
+    "project_id": "urahrah-ec779",
+    "storage_bucket": "urahrah-ec779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581575261047:android:697ace8ca3db7a558a3f72",
+        "android_client_info": {
+          "package_name": "com.urahrahapp.urahrah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581575261047-mfps6e7jtpbatnf97796lknm2ng1u0s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVYM0gnDlPwyKstwA1eE6nwQihzxLT9HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581575261047-mfps6e7jtpbatnf97796lknm2ng1u0s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

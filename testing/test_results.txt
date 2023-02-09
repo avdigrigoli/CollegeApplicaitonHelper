@@ -1,0 +1,12 @@
+> urahrah@1.0.0 test
+> jest
+
+ PASS  app/models/Student.test.js
+ PASS  app/controllers/signup/student/StudentSignupController.test.js
+
+Test Suites: 2 passed, 2 total
+Tests:       33 passed, 33 total
+Snapshots:   0 total
+Time:        2.715 s
+Ran all test suites.
+
