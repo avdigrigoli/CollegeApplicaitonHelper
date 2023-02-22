@@ -1,9 +1,3 @@
-# Urahrah
-
-## (tagline here)
-
-### Directory Organization:
-
 Main: ./App.js
 
 - This is where new screens should be declared
